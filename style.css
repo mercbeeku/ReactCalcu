@@ -1,0 +1,42 @@
+.body {
+    background-color: antiquewhite;
+    width: 144px;
+    height: 164px;
+}
+
+.screen {
+    background-color: rgb(26, 188, 209);
+    height: 30px;
+    width: 140px;
+    text-align: right;
+    border-style: none;
+    color: white;
+}
+
+.deed {
+    width: 36px;
+    height: 22px;
+    background-color: #15e0c5;
+    border-style: none;
+}
+
+.tovch {
+    width: 36px;
+    height: 22px;
+    background-color: #f4f4f4;
+    border-style: none;
+}
+
+.tents {
+    width: 36px;
+    height: 88px;
+    background-color: #1bb8e7;
+    border-style: none;
+}
+
+.col {
+    display: inline-block;
+}
+.col2 {
+   float: right;
+}
